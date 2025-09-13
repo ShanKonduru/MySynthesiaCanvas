@@ -1,0 +1,5 @@
+chainlit
+requests
+openai
+ollama
+
