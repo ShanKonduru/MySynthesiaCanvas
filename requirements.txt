@@ -2,4 +2,8 @@ chainlit
 requests
 openai
 ollama
-
+streamlit
+docker
+python-dotenv
+uv
+mcp-obsidian
